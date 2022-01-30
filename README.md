@@ -1,4 +1,4 @@
-# solid-sfc-styled-labels-starter-template
+# solid-sfc-styled-labels-starter
 
 This is a SolidJS starter template for easily setting up [`solid-sfc`](https://github.com/LXSMNSYC/solid-sfc), [`solid-styled`](https://github.com/LXSMNSYC/solid-styled) and [`solid-labels`](https://github.com/LXSMNSYC/babel-plugin-solid-labels).
 
